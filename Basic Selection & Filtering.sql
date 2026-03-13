@@ -1,4 +1,4 @@
--- Category 1: Basic Selection & Filtering (1-20)
+--Category 1: Basic Selection & Filtering (1-20)
 
 --1.	Select all columns for every trip. 
 SELECT * FROM Travelers;
@@ -79,7 +79,7 @@ WHERE Destination LIKE '%USA%';
 --20.	Find trips where the accommodation cost is not null.
  SELECT * FROM Travelers WHERE "Accommodation cost" IS NOT NULL;
  
------Category 2: Logical Operators & Ordering (21-40)-------
+--Category 2: Logical Operators & Ordering (21-40)
 
 --21.	Find male Travelers who visited 'Paris, France'.
 SELECT * FROM Travelers 
