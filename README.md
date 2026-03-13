@@ -11,6 +11,7 @@ Schema Overview
 Identifiers & Logistics:
 
 Trip ID: A unique numerical identifier for each recorded journey.
+
 Destination: The location visited, typically formatted as "City, Country."
 Start date / End date: The temporal boundaries of the trip.
 Duration (days): The total length of the stay, calculated as the difference between the end and start dates.
